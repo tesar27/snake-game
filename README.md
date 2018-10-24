@@ -1,3 +1,3 @@
 # snake-game
 
-![snake-game](https://ibb.co/bGuQBV)
+[snake-game](https://ibb.co/bGuQBV)
